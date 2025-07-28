@@ -1,6 +1,6 @@
 -----
 
-<img alt="upe" src="https://www.upe.br/garanhuns/wp-content/uploads/2023/09/cropped-UPE-Campus-Garanhuns-2-3.png"/>
+<img alt="upe" src="./img/upe-logo.png"/>
 
 -----
 
